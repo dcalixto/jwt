@@ -12,7 +12,7 @@ dependencies:
 
   bindata:
     github: spider-gazelle/bindata
-    version: ~> 2.1
+    version: ">= 2.1"
 
   ed25519:
     github: spider-gazelle/ed25519
